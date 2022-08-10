@@ -1,3 +1,4 @@
+![wordcloud](images/wordcloud.png)
 ## About me
 
 #### Senior Software Engineer
